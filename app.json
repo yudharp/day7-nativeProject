@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "day7-nativeProject",
-    "slug": "day7-nativeProject",
+    "name": "new-native",
+    "slug": "new-native",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

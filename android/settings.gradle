@@ -1,4 +1,6 @@
-rootProject.name = 'day7nativeProject'
+
+rootProject.name = 'newnative'
+
 
 dependencyResolutionManagement {
   versionCatalogs {

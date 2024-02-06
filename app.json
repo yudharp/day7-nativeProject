@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "day7-nativeProject",
+    "slug": "day7-nativeProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

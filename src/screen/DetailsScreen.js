@@ -3,12 +3,12 @@ import React from 'react';
 import { View, StyleSheet } from 'react-native';
 import User from '../components/User'; // Import komponen User
 
-const DetailsScreen = ({ route }) => {
+const DetailsScreen = ({ route,navigation }) => {
   const { user } = route.params;
 
   return (
     <View style={styles.container}>
-      <User user={user} isDetailPage={true} pressItem={() => {}} />
+      <User user={user} isDetailPage={true} pressItem={() => navigation.navigate('Home')} />
     </View>
   );
 };
